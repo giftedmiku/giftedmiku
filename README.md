@@ -1,1 +1,1 @@
-![desc]https://i.imgur.com/cMbf3Fd.gif
+![desc](https://i.imgur.com/cMbf3Fd.gif)
